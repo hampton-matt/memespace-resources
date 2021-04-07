@@ -1,2 +1,2 @@
-# memespace-resources
-Resources for Memespace Repository
+# Memespace Resources
+Store for Memespace files and resources.
